@@ -20,3 +20,5 @@ This is a simple link shortener service that allows users to shorten long URLs i
    ```bash
    git clone git@github.com:Erikba700/aws_aca_project.git
    git clone https://github.com/Erikba700/aws_aca_project.git
+
+![Logo](shorterner_diagram.jpg)
