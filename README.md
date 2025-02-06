@@ -1,4 +1,4 @@
-# Link Shortener (visit: Farmerup.online)
+# Link Shortener (visit: Farmerup.online and cdn.farmerup.online)
 
 This is a simple link shortener service that allows users to shorten long URLs into more manageable ones. It provides an easy-to-use API to generate and retrieve shortened links.
 
